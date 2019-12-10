@@ -1,6 +1,6 @@
-<h1 align="center">📡 ginprom</h1>
+<h1 align="center">📡 gin_prometheus_api</h1>
 <p align="center">
-    <em>Prometheus metrics exporter for Gin.Inspired by <a href="https://github.com/chenxuehui1/gin_prometheus_api">Depado/ginprom.</a></em>
+    <em>Prometheus metrics exporter for Gin.Inspired by <a href="https://github.com/chenxuehui1/gin_prometheus_api">gin_prometheus_api.</a></em>
 </p>
 
 ### 🔰 Installation
